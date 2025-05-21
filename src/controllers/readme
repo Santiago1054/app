@@ -1,0 +1,6 @@
+La carpeta controllers sirve para crear las funciones que el Backend pueda llamar.
+
+
+
+Ejemplo
+Si se visita la ruta URL/Login el codigo que se ejecuta es el de la carpeta controllers/login.js

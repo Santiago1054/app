@@ -1,0 +1,4 @@
+Los middlewares nos van a servir para nosotros poder decirle que rutas estan protegidas por usuarios autenticados
+
+- Se puede dar acceso a ciertas rutas a ciertos usuarios.
+- Los middlewares nos van a ayudar a crear funciones en donde antes que lleguen van a validar si el usuario tiene acceso o no.

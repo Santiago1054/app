@@ -1,0 +1,3 @@
+La carpeta routes sirve para crear las URLs del Backend
+
+- Definir los endpoints o las rutas que el frontend pueda pedir.

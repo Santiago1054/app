@@ -1,0 +1,1 @@
+// db.js es basicamente la base de datos
